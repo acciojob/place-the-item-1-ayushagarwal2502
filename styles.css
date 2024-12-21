@@ -1,5 +1,5 @@
 /* Your CSS Code here. */
-.item {
+.holder {
 	display:flex;
 	justify-content:space-between;
 	flex-wrap:wrap;
